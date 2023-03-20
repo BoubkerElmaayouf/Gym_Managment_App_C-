@@ -1,0 +1,275 @@
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.exe.config
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.exe
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.pdb
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\bin\Debug\MaterialSkin.dll
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Form1.resources
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Properties.Resources.resources
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.GenerateResource.cache
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.CoreCompileInputs.cache
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.CopyComplete
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.exe
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.pdb
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\bin\Debug\Guna.UI.dll
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Login.resources
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.ProgressBar.resources
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\bin\Debug\en\SisyphusWorriors.resources.dll
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\bin\Debug\fr-MA\SisyphusWorriors.resources.dll
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Form1.en.resources
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Form1.fr-MA.resources
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\obj\Debug\en\SisyphusWorriors.resources.dll
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\obj\Debug\fr-MA\SisyphusWorriors.resources.dll
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\bin\Debug\ar\SisyphusWorriors.resources.dll
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Form1.ar.resources
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\obj\Debug\ar\SisyphusWorriors.resources.dll
+C:\Users\elgra\Desktop\the project with gg ui\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csprojAssemblyReference.cache
+C:\Users\elgra\Desktop\the project with gg ui - Copy\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.exe.config
+C:\Users\elgra\Desktop\the project with gg ui - Copy\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.exe
+C:\Users\elgra\Desktop\the project with gg ui - Copy\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.pdb
+C:\Users\elgra\Desktop\the project with gg ui - Copy\SisyphusWorriors\SisyphusWorriors\bin\Debug\en\SisyphusWorriors.resources.dll
+C:\Users\elgra\Desktop\the project with gg ui - Copy\SisyphusWorriors\SisyphusWorriors\bin\Debug\Guna.UI.dll
+C:\Users\elgra\Desktop\the project with gg ui - Copy\SisyphusWorriors\SisyphusWorriors\bin\Debug\MaterialSkin.dll
+C:\Users\elgra\Desktop\the project with gg ui - Copy\SisyphusWorriors\SisyphusWorriors\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\elgra\Desktop\the project with gg ui - Copy\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csprojAssemblyReference.cache
+C:\Users\elgra\Desktop\the project with gg ui - Copy\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Form1.resources
+C:\Users\elgra\Desktop\the project with gg ui - Copy\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Login.resources
+C:\Users\elgra\Desktop\the project with gg ui - Copy\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.ProgressBar.resources
+C:\Users\elgra\Desktop\the project with gg ui - Copy\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Properties.Resources.resources
+C:\Users\elgra\Desktop\the project with gg ui - Copy\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Form1.en.resources
+C:\Users\elgra\Desktop\the project with gg ui - Copy\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.GenerateResource.cache
+C:\Users\elgra\Desktop\the project with gg ui - Copy\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.CoreCompileInputs.cache
+C:\Users\elgra\Desktop\the project with gg ui - Copy\SisyphusWorriors\SisyphusWorriors\obj\Debug\en\SisyphusWorriors.resources.dll
+C:\Users\elgra\Desktop\the project with gg ui - Copy\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.CopyComplete
+C:\Users\elgra\Desktop\the project with gg ui - Copy\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.exe
+C:\Users\elgra\Desktop\the project with gg ui - Copy\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.pdb
+C:\Users\elgra\Desktop\the project with gg ui - Copy\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.imprimer.resources
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.exe.config
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.exe
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.pdb
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\en\SisyphusWorriors.resources.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\Guna.UI.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\MaterialSkin.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csprojAssemblyReference.cache
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Form1.resources
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.imprimer.resources
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Login.resources
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.ProgressBar.resources
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Properties.Resources.resources
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Form1.en.resources
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.GenerateResource.cache
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.CoreCompileInputs.cache
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\en\SisyphusWorriors.resources.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.CopyComplete
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.exe
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.pdb
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Login2.resources
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\stdole.dll
+C:\Users\elgra\Desktop\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.exe.config
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.exe
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.pdb
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\en\SisyphusWorriors.resources.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\MaterialSkin.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\stdole.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csprojAssemblyReference.cache
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Form1.resources
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.imprimer.resources
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Login.resources
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Login2.resources
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.ProgressBar.resources
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Properties.Resources.resources
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Form1.en.resources
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.GenerateResource.cache
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.CoreCompileInputs.cache
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\en\SisyphusWorriors.resources.dll
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.CopyComplete
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.exe
+C:\Users\elgra\Desktop\alll the dude\the Final Project of Formation\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.pdb
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.exe.config
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.exe
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.pdb
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\en\SisyphusWorriors.resources.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\Guna.UI.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\MaterialSkin.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\stdole.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csprojAssemblyReference.cache
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Form1.resources
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.imprimer.resources
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Login.resources
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.ProgressBar.resources
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Properties.Resources.resources
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Form1.en.resources
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.GenerateResource.cache
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.CoreCompileInputs.cache
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\en\SisyphusWorriors.resources.dll
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.CopyComplete
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.exe
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.pdb
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.ResolveComReference.cache
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.ExporterLesPaiments.resources
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.RechercherDesPayment.resources
+C:\Users\elgra\Desktop\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.RechercherDesMaterial.resources
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.exe.config
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.exe
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.pdb
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\en\SisyphusWorriors.resources.dll
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\MaterialSkin.dll
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\stdole.dll
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csprojAssemblyReference.cache
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.ResolveComReference.cache
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.ExporterLesPaiments.resources
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Form1.resources
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Login.resources
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.ProgressBar.resources
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Properties.Resources.resources
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.RechercherDesMaterial.resources
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.RechercherDesPayment.resources
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Form1.en.resources
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.GenerateResource.cache
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.CoreCompileInputs.cache
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\en\SisyphusWorriors.resources.dll
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.CopyComplete
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.exe
+C:\Users\elgra\Desktop\in case\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.pdb
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.exe.config
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.exe
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.pdb
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\en\SisyphusWorriors.resources.dll
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\MaterialSkin.dll
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\stdole.dll
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csprojAssemblyReference.cache
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.ResolveComReference.cache
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.ExporterLesPaiments.resources
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Form1.resources
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Login.resources
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.ProgressBar.resources
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Properties.Resources.resources
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.RechercherDesMaterial.resources
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.RechercherDesPayment.resources
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Form1.en.resources
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.GenerateResource.cache
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.CoreCompileInputs.cache
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\en\SisyphusWorriors.resources.dll
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.CopyComplete
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.exe
+C:\Users\elgra\Desktop\Presontation de PFE\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.pdb
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.exe.config
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.exe
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\SisyphusWorriors.pdb
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\en\SisyphusWorriors.resources.dll
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\MaterialSkin.dll
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\stdole.dll
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csprojAssemblyReference.cache
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.ResolveComReference.cache
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.ExporterLesPaiments.resources
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Form1.resources
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Login.resources
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.ProgressBar.resources
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Properties.Resources.resources
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.RechercherDesMaterial.resources
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.RechercherDesPayment.resources
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.Form1.en.resources
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.GenerateResource.cache
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.CoreCompileInputs.cache
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\en\SisyphusWorriors.resources.dll
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.csproj.CopyComplete
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.exe
+C:\Users\elgra\Desktop\2anne de OFPPT\Presontation de PFE Sisphus ws\Sysphus Warriors the Original One\SisyphusWorriors\SisyphusWorriors\obj\Debug\SisyphusWorriors.pdb
