@@ -5,4 +5,4 @@
 	Therefore, I managed to make it easier for him by created this application.
 	I want to thank my friend oussama elaichaoui for his contributions on the design part.
 
-* for more information try to read the pdf included in the repo under the name : "Sysphus_Warriors_info"
+* for more information try to read the pdf included in the repo under the name : "Sysphus_Warriors_infos"
